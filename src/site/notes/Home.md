@@ -9,4 +9,3 @@ This is a resource for interacting with the calendar and customizing its user ex
 
 This resource is continuously expanding so check back often. If your issue is not addressed here, you may find help in [The Localist Help Center](https://help.concept3d.com/hc/en-us/categories/11686644923155-Localist-Events).
 
-publish test
