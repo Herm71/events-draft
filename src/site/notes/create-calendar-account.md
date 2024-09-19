@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/create-calendar-account/","title":"Create account"}
+{"dg-publish":true,"permalink":"/create-calendar-account/","title":"Create an account"}
 ---
 
 
