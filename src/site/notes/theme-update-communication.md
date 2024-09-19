@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/theme-update-communication/","title":"Emphasis Theme Update Communication"}
 ---
 
-
+[[home\|home]]
 ## The Events Calendar will be getting a new look
 
 On June 28th, the [Events Calendar](https://calendar.ucsc.edu/) theme will update with a new look. This is a design update. No events will be impacted and no widgets that are embedded in other websites will be affected.

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/create-events-calendar-widget/","title":"Create an Events Calendar Widget"}
 ---
 
+[[home\|home]]
 
 This page documents the process for creating an events calendar widget to embed in your [WordPress](add-calendar-widget-to-wordpress-page.md), [WCMS](add-calendar-widget-to-wcms-page.md), Drupal or other website.
 
