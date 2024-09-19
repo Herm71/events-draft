@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/become-group-admin/","title":"02 Become a Group Administrator","created":"2024-09-18T17:38:25.299-07:00","updated":"2024-09-18T19:44:19.315-07:00"}
+{"dg-publish":true,"permalink":"/become-group-admin/","title":"02 Become a Group Administrator","created":"2024-09-18T17:38:25.299-07:00","updated":"2024-09-18T19:50:30.953-07:00"}
 ---
 
 [[Home\|Home]]
 
-If you have already [created a calendar account](create-calendar-account.md) and you are the administrator of an official UC Santa Cruz group, you may obtain elevated privileges for administering your group's page(s) on the [Events Calendar](https://calendar.ucsc.edu/).
+If you have already [created a calendar account](01-create-calendar-account.md) and you are the administrator of an official UC Santa Cruz group, you may obtain elevated privileges for administering your group's page(s) on the [Events Calendar](https://calendar.ucsc.edu/).
 
 These privileges include:
 
