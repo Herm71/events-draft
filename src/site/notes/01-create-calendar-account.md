@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-create-calendar-account/","title":"01 Create an account","created":"2024-09-18T17:38:25.299-07:00","updated":"2024-09-18T19:46:32.975-07:00"}
+{"dg-publish":true,"permalink":"/01-create-calendar-account/","title":"Create an account","created":"2024-09-18T17:38:25.299-07:00","updated":"2024-09-18T20:00:27.305-07:00"}
 ---
 
 [[Home\|Home]]
@@ -14,4 +14,4 @@ You may create a user account using your own password with your UCSC email accou
 
 Once you create an account, you will get an email asking you to verify your new account. _**Please check your email inbox** (please also check your spam folder_).
 
-Once you verify your email address, you will have a verified account. If you administer events for a group on campus, you can [become a group administrator](become-group-admin.md) and create events that bypass the pending queue.
+Once you verify your email address, you will have a verified account. If you administer events for a group on campus, you can [become a group administrator](02-become-group-admin.md) and create events that bypass the pending queue.
