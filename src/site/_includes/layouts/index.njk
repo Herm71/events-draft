@@ -9,9 +9,6 @@
     {% for imp in dynamics.index.head %}
       {% include imp %}
     {% endfor %}
-		<!-- Truss -->
-		<script type="module" src="https://unpkg.com/@ucsantacruz/truss@latest/dist/ucsc-trss/ucsc-trss.esm.js"></script>
-		<link rel="stylesheet" href="https://unpkg.com/@ucsantacruz/truss@latest/dist/ucsc-trss/ucsc-trss.css">
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
 	<trss-ucsc-header use-logo="true" style="--trss-content-width:80rem;"
@@ -65,10 +62,6 @@
         {% include imp %}
       {% endfor %}
     </main>
-		<footer class="site-footer">
-			<trss-ucsc-footer style="--trss-content-width:80rem;" class="sc-trss-ucsc-footer-h sc-trss-ucsc-footer-s hydrated">
-			</trss-ucsc-footer>
-		</footer>
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
       {%include "components/sidebar.njk" %}
     {%endif%}
