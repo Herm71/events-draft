@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/add-calendar-widget-to-wcms-page/","title":"Add a Calendar to a WCMS Page"}
+{"dg-publish":true,"permalink":"/add-calendar-widget-to-wcms-page/","title":"Add a Calendar to a WCMS Page","created":"2024-09-18T17:38:25.295-07:00","updated":"2024-09-18T19:24:16.780-07:00"}
 ---
 
 [[Home\|Home]]
