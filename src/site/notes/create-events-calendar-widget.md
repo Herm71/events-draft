@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/create-events-calendar-widget/","title":"Create an Events Calendar Widget","created":"2024-09-18T17:38:25.299-07:00","updated":"2024-09-18T19:24:16.784-07:00"}
+{"dg-publish":true,"permalink":"/create-events-calendar-widget/","title":"03 Create an Events Calendar Widget","created":"2024-09-18T17:38:25.299-07:00","updated":"2024-09-18T19:46:37.991-07:00"}
 ---
 
 [[Home\|Home]]

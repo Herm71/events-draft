@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/add-calendar-widget-to-wordpress-page/","title":"Add a Calendar to a WordPress Page","created":"2024-09-18T17:38:25.295-07:00","updated":"2024-09-18T19:24:16.784-07:00"}
+{"dg-publish":true,"permalink":"/add-calendar-widget-to-wordpress-page/","title":"04 Add a Calendar to a WordPress Page","created":"2024-09-18T17:38:25.295-07:00","updated":"2024-09-18T19:46:23.867-07:00"}
 ---
 
 [[Home\|Home]]

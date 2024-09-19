@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/theme-update-communication/","title":"Emphasis Theme Update Communication","created":"2024-09-18T17:38:25.299-07:00","updated":"2024-09-18T19:24:16.788-07:00"}
+{"dg-publish":true,"permalink":"/theme-update-communication/","title":"05 Emphasis Theme Update Communication","created":"2024-09-18T17:38:25.299-07:00","updated":"2024-09-18T19:46:59.254-07:00"}
 ---
 
 [[Home\|Home]]
