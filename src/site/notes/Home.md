@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home","hide":true,"tags":["gardenEntry"],"created":"2024-09-18T17:38:25.299-07:00","updated":"2024-09-18T19:31:14.700-07:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Home","hide":true,"tags":["gardenEntry"],"created":"2024-09-18T17:38:25.299-07:00","updated":"2024-09-18T21:26:50.059-07:00"}
 ---
-
 
 Welcome to the [UC Santa Cruz Events Calendar](https://calendar.ucsc.edu/) documentation.
 
