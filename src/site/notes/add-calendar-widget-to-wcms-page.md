@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/add-calendar-widget-to-wcms-page/","title":"Add a Calendar to a WCMS Page"}
 ---
 
-[[home\|home]]
+[[Home\|Home]]
 
 If you manage a WCMS website and have [created an Events Calendar widget](create-events-calendar-widget.md), these instructions will show you how to embed a calendar into a page on your site.
 

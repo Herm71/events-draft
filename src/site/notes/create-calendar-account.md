@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/create-calendar-account/","title":"Create an account"}
 ---
 
-[[home\|home]]
+[[Home\|Home]]
 
 Create an account using your **@ucsc.edu** email account.
 
