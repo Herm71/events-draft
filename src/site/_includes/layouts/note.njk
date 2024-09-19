@@ -12,6 +12,9 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% for imp in dynamics.notes.head %}
       {% include imp %}
     {% endfor %}
+	<!-- Truss -->
+		<script type="module" src="https://unpkg.com/@ucsantacruz/truss@latest/dist/ucsc-trss/ucsc-trss.esm.js"></script>
+		<link rel="stylesheet" href="https://unpkg.com/@ucsantacruz/truss@latest/dist/ucsc-trss/ucsc-trss.css">
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
 	<trss-ucsc-header use-logo="true" style="--trss-content-width:80rem;"
